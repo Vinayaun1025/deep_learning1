@@ -1,1 +1,1 @@
-# deep_learnig1
+# deep_learning1
